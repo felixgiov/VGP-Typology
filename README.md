@@ -25,10 +25,10 @@ VGPs obtained after removing stop words from original VGPs.
 * **original_phrase(1&2)**  
 The original VGPs extracted from the flickr30K entity dataset.
 * **original_label**  
-Semantic typology class of the VGP pair.
+Semantic typology class of the VGP pair.  
 *forward entailment* : Entailment1, *reverse entailment* : Entailment2.
 * **type_label**  
-Index of the typology class of VGPs.
+Index of the typology class of VGPs.  
 *alternation* : 0, *forward entailment* : 1, *reverse entailment* : 2, *equivalence* : 3, *independence* : 4.
 
 ### Citation
