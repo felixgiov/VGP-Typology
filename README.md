@@ -14,7 +14,7 @@ Some of the easy-to-detect examples were annotated using manually defined rules 
 2. Human annotation  
 Majority of the annotation was carried out using Amazon Mechanical Turk (AMT).
  
-The annotation process yielded 13,376, 5,734 and 6,061 labelled VGPs for training, validation and testing respectively.
+The annotation process yielded 24,992, 5,734 and 6,061 labelled VGPs for training, validation and testing respectively.
 
 ### Description of the dataset
 The dataset is  divided into three separate csv files for train, validation and test. Each file contains the following information. 
