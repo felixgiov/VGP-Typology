@@ -32,4 +32,4 @@ Index of the typology class of VGPs.
 *alternation* : 0, *forward entailment* : 1, *reverse entailment* : 2, *equivalence* : 3, *independence* : 4.
 
 ### Citation
-If you use this dataset, please cite our paper ""
+If you use this dataset, please cite our paper "Chenhui Chu, Vinicius Oliveira, Felix Giovanni Virgo, Mayu Otani, Noa Garcia, Yuta Nakashima. The Semantic Typology of Visually Grounded Paraphrases. Computer Vision and Image Understanding, (2021)"
