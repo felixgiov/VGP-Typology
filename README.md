@@ -5,7 +5,7 @@ Dataset from the paper "The Semantic Typology of Visually Grounded Paraphrases"
 
 Visually grounded paraphrases (VGPs) are different phrasal expressions describing the same visual concept in an image. Identifying VGPs has the potential to improve vision and language tasks such as visual question answering and image captioning in a way similar to which paraphrases have been applied to natural language processing tasks such as question answering (Riezler et al. 2007) and machine translation. Previous studies treat VGP identification as a binary classification task, which classifies a pair of phrases into VGPs or non-VGPs, and ignores various phenomena behind VGPs. In this paper, we propose semantic typology for VGPs, aiming to elucidate the VGP phenomena. The creation of the semantic VGP typology will not only elucidate the phenomena behind VGPs but also open up novel ways of utilizing VGPs for various vision and language tasks, which require semantic understanding.  
 
-![VGP](https://ars.els-cdn.com/content/image/1-s2.0-S1077314221001697-ga1_lrg.jpg)
+![VGP](https://ars.els-cdn.com/content/image/1-s2.0-S1077314221001697-gr1_lrg.jpg)
 
 ### Overview of the dataset
 We define five classes of VGPs: *equivalence*, *forward entailment*, *reverse entailment*, *alternation*, and *independence*. Data annotated with the class of VGP type can be found in this repository. We used the Flickr 30K Entities Dataset to serve as a basis for getting candidates for paraphrases from where we extract VGPs and annotate them for semantic typology. The annotation was carried out in two stages. 
