@@ -35,3 +35,21 @@ Index of the typology class of VGPs.
 
 ### Citation
 If you use this dataset, please cite our paper ["Chenhui Chu, Vinicius Oliveira, Felix Giovanni Virgo, Mayu Otani, Noa Garcia, Yuta Nakashima. The Semantic Typology of Visually Grounded Paraphrases. Computer Vision and Image Understanding, (2021)"](https://www.sciencedirect.com/science/article/pii/S1077314221001697)
+
+Bibtex for citations:
+
+```bibtex
+@article{CHU2022103333,
+title = {The semantic typology of visually grounded paraphrases},
+journal = {Computer Vision and Image Understanding},
+volume = {215},
+pages = {103333},
+year = {2022},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2021.103333},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314221001697},
+author = {Chenhui Chu and Vinicius Oliveira and Felix Giovanni Virgo and Mayu Otani and Noa Garcia and Yuta Nakashima},
+keywords = {Vision and language, Image interpretation, Visual grounded paraphrases, Semantic typology, Dataset},
+abstract = {Visually grounded paraphrases (VGPs) are different phrasal expressions describing the same visual concept in an image. Previous studies treat VGP identification as a binary classification task, which ignores various phenomena behind VGPs (i.e., different linguistic interpretation of the same visual concept) such as linguistic paraphrases and VGPs from different aspects. In this paper, we propose semantic typology for VGPs, aiming to elucidate the VGP phenomena and deepen the understanding about how human beings interpret vision with language. We construct a large VGP dataset that annotates the class to which each VGP pair belongs according to our typology. In addition, we present a classification model that fuses language and visual features for VGP classification on our dataset. Experiments indicate that joint language and vision representation learning is important for VGP classification. We further demonstrate that our VGP typology can boost the performance of visually grounded textual entailment.}
+}
+```
